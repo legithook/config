@@ -1,1 +1,1 @@
-
+bzminer.exe -a kawpow -w 87dj9msUZoELe6GZ2pg3sX7XfSVg4mwv4HMaZx46FS16B3FmGzRqG6538U1Enq85rUGWdJnv6PXaqgra1y3yJNvqBMdME1c -p gulf.moneroocean.stream:10032
